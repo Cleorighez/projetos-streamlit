@@ -1,5 +1,72 @@
-nome,data_nascimento,tipo
-
-Sofia Virginia, 2016-11-13, Pessoa física
-Claudio Righetti, 1961-09-18, Pessoa Juridica
-Giovanni Pascoli, 1991-09-02, Pessoa física
+nome,dt_nasc,sexo,est_civil,cpf,data_cadastro
+Roberta, 1998-03-21, F, Solteiro(a), 12345678911, 2024-09-12
+João Silva, 1990-02-01, M, Solteiro, 12345678901, 2023-01-15
+Maria Santos, 1985-04-12, F, Casada, 23456789012, 2023-02-20
+Pedro Costa, 1992-06-23, M, Solteiro, 34567890123, 2023-03-10
+Ana Oliveira, 1988-08-14, F, Casada, 45678901234, 2023-04-05
+Lucas Pereira, 1995-09-30, M, Solteiro, 56789012345, 2023-05-15
+Juliana Souza, 1991-11-25, F, Solteira, 67890123456, 2023-06-01
+Ricardo Lima, 1980-01-02, M, Casado, 78901234567, 2023-07-20r
+Fernanda Mendes, 1987-03-18, F, Casada, 89012345678, 2023-08-10
+Thiago Ribeiro, 1993-05-22, M, Solteiro, 90123456789, 2023-09-15
+Carla Martins, 1984-07-29, F, Casada, 01234567890, 2023-10-05
+Gustavo Nunes, 1996-02-11, M, Solteiro, 12345098765, 2023-11-10
+Beatriz Almeida, 1997-03-25, F, Solteira, 23456098765, 2023-12-20
+Bruno Ferreira, 1982-08-13, M, Casado, 34567098765, 2023-01-25
+Patrícia Cardoso, 1986-10-19, F, Casada, 45678098765, 2023-02-17
+Rodrigo Gomes, 1991-12-31, M, Solteiro, 56789098765, 2023-03-28
+Renata Azevedo, 1993-04-05, F, Casada, 67890098765, 2023-04-16
+Felipe Barbosa, 1995-06-12, M, Solteiro, 78901098765, 2023-05-22
+Paula Faria, 1988-09-09, F, Casada, 89012098765, 2023-06-08
+Marcelo Torres, 1984-11-07, M, Casado, 90123098765, 2023-07-14
+Isabela Correia, 1996-01-24, F, Solteira, 01234098765, 2023-08-18
+Leonardo Pires, 1990-03-17, M, Solteiro, 12345012345, 2023-09-23
+Amanda Ramos, 1992-05-21, F, Casada, 23456012345, 2023-10-30
+Vinícius Teixeira, 1994-07-19, M, Solteiro, 34567012345, 2023-11-25
+Camila Cunha, 1985-09-28, F, Casada, 45678012345, 2023-12-31
+Eduardo Vieira, 1997-12-02, M, Solteiro, 56789012345, 2023-01-12
+Larissa Silva, 1994-01-09, F, Casada, 67890012345, 2023-02-14
+Henrique Barbosa, 1981-03-05, M, Casado, 78901012345, 2023-03-18
+Carolina Rocha, 1987-06-30, F, Solteira, 89012012345, 2023-04-26
+André Campos, 1989-08-21, M, Solteiro, 90123012345, 2023-05-11
+Gabriela Lima, 1993-10-24, F, Casada, 01234012345, 2023-06-07
+Mateus Souza, 1991-12-30, M, Casado, 12345023456, 2023-07-09
+Mariana Ferreira, 1996-02-04, F, Solteira, 23456023456, 2023-08-13
+Rafael Almeida, 1985-04-10, M, Casado, 34567023456, 2023-09-17
+Roberta Moura, 1982-06-11, F, Casada, 45678023456, 2023-10-20
+Leandro Costa, 1988-08-05, M, Solteiro, 56789023456, 2023-11-15
+Aline Santos, 1990-10-16, F, Solteira, 67890023456, 2023-12-22
+Fábio Borges, 1997-01-27, M, Solteiro, 78901023456, 2023-01-18
+Vanessa Melo, 1995-03-16, F, Casada, 89012023456, 2023-02-23
+Bruno Ribeiro, 1983-07-14, M, Casado, 90123023456, 2023-03-15
+Daniela Cunha, 1986-11-25, F, Casada, 01234023456, 2023-04-28
+Renato Machado, 1994-09-18, M, Solteiro, 12345034567, 2023-05-25
+Natália Ribeiro, 1991-10-05, F, Solteira, 23456034567, 2023-06-30
+Guilherme Martins, 1992-03-30, M, Solteiro, 34567034567, 2023-07-15
+Tatiane Oliveira, 1989-12-12, F, Casada, 45678034567, 2023-08-22
+Carlos Pereira, 1990-05-20, M, Solteiro, 56789034567, 2023-09-10
+Cecília Nunes, 1996-07-28, F, Solteira, 67890034567, 2023-10-25
+Augusto Pires, 1988-09-09, M, Casado, 78901034567, 2023-11-30
+Monique Gonçalves, 1987-11-22, F, Casada, 89012034567, 2023-12-27
+Wilson Dias, 1983-04-10, M, Casado, 90123034567, 2023-01-08
+Elisângela Faria, 1986-06-18, F, Casada, 01234034567, 2023-02-09
+Vitor Lopes, 1990-08-27, M, Solteiro, 12345045678, 2023-03-20
+Joana Cardoso, 1995-10-14, F, Casada, 23456045678, 2023-04-24
+Paulo Ferreira, 1997-12-19, M, Solteiro, 34567045678, 2023-05-29
+Bianca Azevedo, 1989-02-12, F, Casada, 45678045678, 2023-06-10
+Fernando Mendes, 1993-04-05, M, Solteiro, 56789045678, 2023-07-03
+Débora Vieira, 1985-08-29, F, Casada, 67890045678, 2023-08-19
+Diego Lima, 1991-10-09, M, Casado, 78901045678, 2023-09-12
+Claudia Pires, 1992-12-16, F, Solteira, 89012045678, 2023-10-29
+Luiz Henrique, 1990-01-11, M, Solteiro, 90123045678, 2023-11-07
+Raquel Santos, 1984-03-24, F, Casada, 01234045678, 2023-12-14
+César Almeida, 1982-05-17, M, Casado, 12345056789, 2023-01-16
+Viviane Torres, 1993-07-23, F, Casada, 23456056789, 2023-02-18
+Alessandro Lopes, 1988-09-14, M, Solteiro, 34567056789, 2023-03-21
+Tatiana Costa, 1987-11-01, F, Solteira, 456
+João Ferreira, 1985-03-02, M, Solteiro, 12345678909, 2023-02-15
+Maria Pereira, 1990-06-12, F, Casada, 23456789019, 2023-04-18
+Pedro Oliveira, 1992-07-23, M, Solteiro, 34567890129, 2023-05-19
+Ana Souza, 1989-09-15, F, Casada, 45678901239, 2023-07-08
+Lucas Costa, 1995-08-30, M, Solteiro, 56789012349, 2023-09-01
+Juliana Lima, 1991-11-20, F, Solteira, 67890123459, 2023-10-10
