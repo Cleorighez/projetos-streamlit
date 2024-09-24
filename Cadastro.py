@@ -53,7 +53,7 @@ cpf = st.text_input('CPF', key='cpf')
 data_cadastro = datetime.today().date()
 
 # adicionar um input com a data atual como padrão:
-data_selecionada = st.date_input('Data de cadastro:', data_cadastro)
+data_selecionada = st.date_input('Data de cadastro:', format = "DD/MM/YYYY", data_cadastro)
 
 # botao para salvar dados
 btn_cadastrar = st.button('Cadastrar',
