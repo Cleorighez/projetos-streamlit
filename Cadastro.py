@@ -33,7 +33,7 @@ max_date = date(2100, 12, 31)  # mesmo aqui
 # data de nascimento
 dt_nasc = st.date_input('Data de nascimento',
                         value=date(2023,1,1),
-			format("DD/MM/YYYY"),
+			format = "DD/MM/YYYY",
                         min_value=min_date,
                         max_value=max_date
                         )
